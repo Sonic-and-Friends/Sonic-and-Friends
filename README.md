@@ -1,7 +1,7 @@
-- 👋 Hello memers, I’m @Sonic-and-Friends
-- 👀 I’m interested in making videos, memes, and modding video games.
+- 👋 Sup memers, I’m @Sonic-and-Friends
+- 👀 I’m interested in making videos, memes, music, mods, and video games.
 - 🌱 I’m currently learning to program.
-- 💞️ I’m looking to collaborate on FNF Vs. Charli.
+- 💞️ I’m looking to collaborate on Friday Night Funkin': Vs. Charli.
 - 📫 How to reach me: You can find me on Discord. Username is SonicAndFriends#5975.
 
 <!---
